@@ -1,1 +1,1 @@
-# Gen-AI-project-
+smart contact manager  project 
